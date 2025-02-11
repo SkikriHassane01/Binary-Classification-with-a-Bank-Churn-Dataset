@@ -3,6 +3,9 @@
 ## Overview
 This project focuses on predicting customer churn in a banking context as part of a Kaggle competition. Two distinct approaches were implemented to solve this binary classification problem, achieving competitive results through different methodologies.
 
+[The Notebook Version 1](https://www.kaggle.com/code/hassaneskikri/binary-classification-with-a-bank-churn-dataset-v1)
+[The Notebook Version 2](https://www.kaggle.com/code/hassaneskikri/binary-classification-with-a-bank-churn-dataset-v2)
+
 ## Project Structure
 ```
 ├── notebooks/
